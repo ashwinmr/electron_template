@@ -47,7 +47,6 @@
         "cmake-js": "^6.2.1",
         "electron": "^13.2.3",
         "electron-builder": "^22.11.7",
-        "electron-packager": "^15.3.0",
-        "electron-rebuild": "^3.2.2"
+        "electron-packager": "^15.3.0"
     }
 }
