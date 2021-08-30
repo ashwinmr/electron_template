@@ -26,3 +26,9 @@ The installer will be found in `app/build`
 # To-Do
 
 - [ ] Item
+
+# Notes
+
+## Certificates and signing
+
+- To use a self signed certificate with appx, the publisher key has to match the publisher name used to create the certificate

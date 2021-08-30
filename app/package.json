@@ -31,7 +31,7 @@
         },
         "appx": {
             "identityName": "000pub.app",
-            "publisher": "CN=000",
+            "publisher": "CN=ashwin",
             "publisherDisplayName": "pub",
             "applicationId": "app",
             "displayName": "app"
