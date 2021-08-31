@@ -21,7 +21,8 @@ app.on('ready', function createWindow() {
         useContentSize: true,
         resizable: true,
         webPreferences: {
-            nodeIntegration: true
+            nodeIntegration: true,
+            contextIsolation: false,
         }
     })
 
