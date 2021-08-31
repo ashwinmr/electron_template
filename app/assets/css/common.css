@@ -1,0 +1,5 @@
+﻿/* Prevent scrollbars and margins */
+body {
+    overflow: hidden;
+    margin: 0;
+}
