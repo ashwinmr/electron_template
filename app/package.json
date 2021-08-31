@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "Description",
     "repository": {},
-    "main": "app.js",
+    "main": "main.js",
     "scripts": {
         "install": "cmake-js compile",
         "start": "electron .",
