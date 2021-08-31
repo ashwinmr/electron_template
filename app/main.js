@@ -26,11 +26,7 @@ app.on('ready', function createWindow() {
     })
 
     // Load the index.html of the app.
-    win.loadURL(url.format({
-        pathname: path.join(__dirname, 'src', 'index.html'),
-        protocol: 'file:',
-        slashes: true
-    }))
+    win.loadFile(path.join(__dirname,"src","index.html"))
 
     // Create the menu
     const menu = Menu.buildFromTemplate([{
